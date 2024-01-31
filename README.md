@@ -1,6 +1,7 @@
 ### It's Puya 👋
 ### Student at the University of Tehran
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooyash&show_icons=true)](https://github.com/pooyash/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooyash)](https://github.com/pooyash/github-readme-stats)
 <!--
 **pooyash/pooyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
